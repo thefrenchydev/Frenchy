@@ -14,6 +14,6 @@ I'm a young CS student in France doing what I love: Game and Software developmen
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Tools & Platforms
-![Roblox](https://img.shields.io/badge/-robloxstudio-00A2FF?style=flat-square&logo=git&logoColor=white)
+![Roblox](https://img.shields.io/badge/-robloxstudio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
