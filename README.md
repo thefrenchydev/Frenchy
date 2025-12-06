@@ -1,7 +1,7 @@
 # Hey there, I'm Frenchy!
 
 ## 🚀 About Me
-I'm a young CS student in France doing what I love: Game and Software development!
+I'm a young CS student in France doing what I love: Game development and Software engineering!
 I code in TS, JS, Python, C# and Java. I'm mainly focusing on Roblox and SCP: Secret Laboratory.
 - 🎮 Game development with **Roblox** and **Unity**
 - 🖥️ Software engineering in **Python** and **Java**
