@@ -1,4 +1,4 @@
-# Hey there, this is Frenchy!
+# Hey there, I'm Frenchy!
 
 ## 🚀 About Me
 I'm a young CS student in France doing what I love: Game and Software development!
@@ -15,5 +15,6 @@ I'm a young CS student in France doing what I love: Game and Software developmen
 
 ### Tools & Platforms
 ![Roblox](https://img.shields.io/badge/-Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![Rojo](https://img.shields.io/badge/-Rojo-CC3333?style=flat-square&logo=roblox&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
