@@ -20,7 +20,4 @@ I code in TS, JS, Python, C# and Java. I'm mainly focusing on Roblox and SCP: Se
 ![Roblox](https://img.shields.io/badge/-Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
 ![Rojo](https://img.shields.io/badge/-Rojo-CC3333?style=flat-square&logo=roblox&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-<a href="https://github.com/thefrenchydev/SCPSLTemplateGenerator">![Github](https://img.shields.io/badge/github-repo-blue?logo=github)</a>
-<a href="https://www.nuget.org/packages/SCPSLTemplateGenerator">![NuGet](https://img.shields.io/nuget/v/SCPSLTemplateGenerator.svg?logo=nuget)</a>
-<a href="https://dotnet.microsoft.com/download/dotnet/8.0">![.NET](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet)</a>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
